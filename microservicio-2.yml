@@ -1,4 +1,4 @@
 server:
-  port: 8082
+  port: 8092
 
 mensaje: "Hola desde Microservicio 2"
